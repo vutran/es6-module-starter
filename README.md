@@ -1,22 +1,25 @@
 # es6 module starter
 
-===
+> Boilerplate for starting new ES6 modules
 
-
-### Lint
+## Lint
 
 ````bash
 $ npm run lint
 ````
 
-### Dev
+## Dev
 
 ````bash
 $ npm run dev
 ````
 
-### Build
+## Build
 
 ````bash
 $ npm run build
 ````
+
+## License
+
+MIT © [Vu Tran](https://github.com/vutran/)

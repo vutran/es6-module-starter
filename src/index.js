@@ -1,1 +1,1 @@
-export default "ES6 Module Starter";
+export default 'ES6 Module Starter';
